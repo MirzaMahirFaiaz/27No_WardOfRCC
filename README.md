@@ -6,15 +6,16 @@ Dept of CSE, AUST.<br/>
 Email : mirzamahirfaiaz@gmail.com
 
 
-here I'm showing some ss of the UI of that Application-
 <br />
 
 ERD of this Application-
 <br />
 ![image (5)](https://user-images.githubusercontent.com/81585954/183236772-20a97439-f263-4985-9577-1ad9d5bd54e8.png)
+<br/>
 
+Here I'm showing some ss of the UI of that Application.
 
-Loading-
+Loading Page-
 <br />
 <img width="490" alt="1" src="https://user-images.githubusercontent.com/81585954/183236639-037a0718-b63d-4090-acc8-a77faae9e70f.PNG">
 
