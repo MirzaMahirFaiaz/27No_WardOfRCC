@@ -1,6 +1,10 @@
 # 27No_WardOfRCC
 using java swing and MS SQL
 <br />
+Made By Mirza Mahir Faiaz, <br/>
+Dept of CSE, AUST.<br/>
+Email : mirzamahirfaiaz@gmail.com
+
 
 here I'm showing some ss of the UI of that Application-
 <br />
